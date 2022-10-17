@@ -1,0 +1,28 @@
+@import url("http://fonts.googleapis.com/css?family=Silkscreen");
+
+* {
+  font-family: "Silkscreen";
+  font-size: 15px;
+}
+
+h1{
+        font-size: 30px;
+}
+
+form {
+  max-width: 300px;
+  border: 3px solid black;
+  padding: 20px;
+  margin: 70px;
+
+}
+
+input,
+textarea {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+  border: 2px solid black;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
